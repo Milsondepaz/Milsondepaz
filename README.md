@@ -29,6 +29,7 @@
 <a href="https://www.linkedin.com/in/milson-ant%C3%B3nio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-milson antónio-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://youtube.com/playlist?list=PLC3FFLLY-oDdaRuVRhWd4Pev8zmu0lHix"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-milson antónio-blue?style=flat-square&logo=youtube"></a>
 <a href="mailto:milson.milson@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-milson.milson@outlook.com-blue?style=flat-square&logo=outlook"></a>
+<a href="#"><img alt="Telephone" src="https://img.shields.io/badge/Phone-+49 1521 2816 680-blue?style=flat-square&logo=phone"></a>
 </p>
 
 <br/>
