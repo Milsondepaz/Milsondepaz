@@ -35,11 +35,13 @@
 
 <br/>
 
+<!--
 <h3> 💻 &nbsp;Some of my projects...</h3>
 
 - API 1 
 - API 1 
 - API 1 
 - API 1 
+-->
 
 
