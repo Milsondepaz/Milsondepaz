@@ -1,6 +1,6 @@
 <h2> Hello! I'm Milson.</h2>
 
-- ☑️ &nbsp; I have 5 years of experience as **Java Developer**.
+- ☑️ &nbsp; Totally 5 years as **Java Developer**.
 - 🎓 &nbsp; Bachelor in Computer Sciences at [FURB](https://furb.br)
 - 🎓 &nbsp; Msc in Computer Engineering with focus in IoT at [UJA](https://ujaen.es)
 
