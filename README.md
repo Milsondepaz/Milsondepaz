@@ -3,7 +3,6 @@
 - ☑️ &nbsp; I have 5 years of experience as **Java Developer**.
 - 🎓 &nbsp; Bachelor in Computer Sciences at [FURB](https://furb.br)
 - 🎓 &nbsp; Msc in Computer Engineering with focus in IoT at [UJA](https://ujaen.es)
-- 📌 &nbsp; Always learning Java and Spring Ecosystem.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
