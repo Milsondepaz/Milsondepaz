@@ -15,13 +15,6 @@
 </a>
 
 <br/>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/milson-ant%C3%B3nio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-milson-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://youtube.com/playlist?list=PLC3FFLLY-oDdaRuVRhWd4Pev8zmu0lHix"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-milson-blue?style=flat-square&logo=youtube"></a>
-<a href="https://milsondepaz.github.io/portfolio/"><img alt="Site" src="https://img.shields.io/badge/Site-milson-blue?style=flat-square&logo=web"></a>
-</p>
 
 <br/>
 
